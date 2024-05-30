@@ -1,26 +1,28 @@
 # Restaurant Rating App Web Frontend
 
-![FoodLig](screnshots/logo.png)
+<p align="center">
+  <img src="frontend/assets/images/app_logo.png" alt="FoodLig" width="300"/>
+</p>
 
 ## Overview
 
-This project is a part of our Software Engineering course, developed by our team. The project is a web-based admin panel for restaurant managers to manage their restaurants and view other restaurants in the same city. The frontend of the project is developed using Flutter.
+Welcome to our Restaurant Rating App! This is part of our Software Engineering course project, where we created a web-based admin panel for restaurant managers. Here, managers can manage their restaurant details and check out other restaurants in the same city. I worked on the front end using Flutter.
 
 ## Features
 
-- **Admin Panel**: Restaurant managers can manage their restaurant details and see other restaurants in the same city.
-- **UI Design**: All UI design is custom-built to ensure a smooth and responsive user experience.
-- **API Integration**: The app connects to an API for data management and retrieval.
-- **Firebase Deployment**: The project is deployed on Firebase for easy access and management.
+- **Admin Panel**: Manage your restaurant details and explore other restaurants in your city.
+- **UI Design**: I designed the UI to be user-friendly and responsive.
+- **API Integration**: The app connects to an API for smooth data management.
+- **Firebase Deployment**: The app is currently deployed on Firebase for easy access.
 
 ## Challenges Faced
 
-- **Responsiveness**: Ensuring the web app is responsive across different devices and screen sizes was a major challenge.
-- **UI Design**: Creating a user-friendly and aesthetically pleasing UI required careful planning and execution.
+- **Responsiveness**: Making sure the web app looks good on all devices was quite the challenge.
+- **UI Design**: Crafting an appealing and functional UI took a lot of planning and effort.
 
 ## Installation
 
-To run this project locally, follow these steps:
+Want to run this project locally? Here’s how:
 
 1. **Clone the repository**:
     ```sh
@@ -41,18 +43,18 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-Once the project is running, you can access the admin panel through your web browser. The admin panel allows restaurant managers to:
+Once you have it up and running, you can access the admin panel through your web browser. The admin panel allows you to:
 
-- View and manage their restaurant details.
-- See other restaurants in the same city.
+- View and manage your restaurant details.
+- Check out other restaurants in your city.
 
 ## Contributing
 
-We welcome comments and suggestions to improve our coding skills. If you have any suggestions or find any issues, please open an issue or submit a pull request.
+I’m open to comments and suggestions to improve my coding skills. If you have any feedback or find any issues, feel free to open an issue or submit a pull request.
 
 ## Deployment
 
-The project is currently deployed on Firebase. You can access the live version [https://restaurant-rating-fronte-84130.web.app/#/](#).
+The project is currently deployed on Firebase. You can check out the live version [here](https://restaurant-rating-fronte-84130.web.app/#/).
 
 ## License
 
@@ -60,21 +62,24 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or feedback, please reach out to us at [ozgurcansizz@outlook.com].
+If you have any questions or feedback, don't hesitate to get in touch with me via [my mail](ozgurcansizz@outlook.com).
 
 ## Screenshots
 
-### Login Page
+<p align="center">
+  <img src="screenshots/login.png" alt="Login Page" width="300"/>
+  <br>
+  Login Page
+</p>
 
-![Admin Panel](screenshots/login.png)
+<p align="center">
+  <img src="screenshots/register.png" alt="Register Page" width="300"/>
+  <br>
+  Register Page
+</p>
 
-### Register Page
-
-![Admin Panel](screenshots/register.png)
-
-### Restaurant Management
-
-![Restaurant Management](path/to/home.png)
-
-
-
+<p align="center">
+  <img src="screenshots/home.png" alt="Admin Panel" width="300"/>
+  <br>
+  Admin Panel
+</p>
